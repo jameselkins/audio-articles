@@ -18,5 +18,15 @@
 <itunes:duration>1139</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
+<item>
+<title>The Future of Education: If you don't like Alpha, it's probably not for you. That should be OK (male voice)</title>
+<itunes:author>Michael B. Horn and Thomas Arnett</itunes:author>
+<description>Full audio reading of the essay. First of two posts about Alpha School, coauthored with Thomas Arnett of the Christensen Institute.</description>
+<enclosure url="https://jameselkins.github.io/audio-articles/article-james.mp3" length="8856613" type="audio/mpeg"/>
+<pubDate>Thu, 24 Sep 2026 15:10:00 +0000</pubDate>
+<guid>future-of-education-alpha-2026-male</guid>
+<itunes:duration>1107</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
 </channel>
 </rss>
