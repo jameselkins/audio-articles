@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>Audio Articles</title>
+<link>https://example.com</link>
+<language>en-us</language>
+<itunes:author>James</itunes:author>
+<itunes:category text="Education"/>
+<itunes:explicit>false</itunes:explicit>
+<description>Long-form articles to listen to.</description>
+<item>
+<title>The Future of Education: If you don't like Alpha, it's probably not for you. That should be OK</title>
+<itunes:author>Michael B. Horn and Thomas Arnett</itunes:author>
+<description>Full audio reading of the essay. First of two posts about Alpha School, coauthored with Thomas Arnett of the Christensen Institute.</description>
+<enclosure url="https://jameselkins-ah.github.io/audio-articles/article.m4a" length="50248484" type="audio/mp4"/>
+<pubDate>Thu, 24 Sep 2026 10:00:00 +0000</pubDate>
+<guid>future-of-education-alpha-2026</guid>
+<itunes:duration>1139</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+</channel>
+</rss>
