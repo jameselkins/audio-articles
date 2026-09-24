@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Elk Winner Family Audio Articles</title>
 <link>https://jameselkins.github.io/audio-articles/</link>
+<atom:link href="https://jameselkins.github.io/audio-articles/feed.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Thu, 24 Sep 2026 15:30:00 +0000</lastBuildDate>
+<itunes:type>episodic</itunes:type>
+<itunes:owner><itunes:name>James Elkins</itunes:name><itunes:email>jameselkins@gmail.com</itunes:email></itunes:owner>
+<itunes:image href="https://jameselkins.github.io/audio-articles/artwork.png"/>
 <language>en-us</language>
 <itunes:author>James</itunes:author>
 <itunes:category text="Education"/>
