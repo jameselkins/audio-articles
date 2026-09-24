@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Elk Winner Family Audio Articles</title>
+<link>https://jameselkins.github.io/audio-articles/</link>
+<atom:link href="https://jameselkins.github.io/audio-articles/elk-winner-feed.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Thu, 24 Sep 2026 15:30:00 +0000</lastBuildDate>
+<itunes:type>episodic</itunes:type>
+<itunes:owner><itunes:name>James Elkins</itunes:name><itunes:email>jameselkins@gmail.com</itunes:email></itunes:owner>
+<itunes:image href="https://jameselkins.github.io/audio-articles/artwork.png"/>
+<image>
+<link>https://jameselkins.github.io/audio-articles/</link>
+<title>Elk Winner Family Audio Articles</title>
+<url>https://jameselkins.github.io/audio-articles/artwork.png</url>
+</image>
+<language>en-us</language>
+<itunes:author>James</itunes:author>
+<itunes:category text="Education"/>
+<itunes:explicit>false</itunes:explicit>
+<description>Long-form articles to listen to.</description>
+<item>
+<title>The Future of Education: If you don't like Alpha, it's probably not for you. That should be OK (male voice)</title>
+<itunes:author>Michael B. Horn and Thomas Arnett</itunes:author>
+<description>Full audio reading of the essay. First of two posts about Alpha School, coauthored with Thomas Arnett of the Christensen Institute.</description>
+<enclosure url="https://jameselkins.github.io/audio-articles/article-james.mp3" length="8856613" type="audio/mpeg"/>
+<pubDate>Thu, 24 Sep 2026 15:10:00 +0000</pubDate>
+<guid isPermaLink="false">future-of-education-alpha-2026-male</guid>
+<itunes:duration>00:18:27</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+</channel>
+</rss>
